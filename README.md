@@ -38,5 +38,5 @@ Among the models tested, **K-Nearest Neighbors (KNN)** demonstrated superior per
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/umeshsutihar/Heart-Predication.git](https://github.com/umeshsutihar/Heart-Predication.git)
-cd Heart-Predication
+git clone [https://github.com/umeshsutihar/Heart-Prediction.git](https://github.com/umeshsutihar/Heart-Prediction.git)
+cd Heart-Prediction
