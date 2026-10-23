@@ -34,9 +34,9 @@ Among the models tested, **K-Nearest Neighbors (KNN)** demonstrated superior per
 
 ---
 
-## ⚙️ How to Run Locally
+## 🚀 How to Run Locally
 
-### 1. Clone the repository
-```bash
-git clone [https://github.com/umeshsutihar/Heart-Prediction.git](https://github.com/umeshsutihar/Heart-Prediction.git)
-cd Heart-Prediction
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/umeshsutihar/Heart-Prediction.git](https://github.com/umeshsutihar/Heart-Prediction.git)
+   cd Heart-Prediction
