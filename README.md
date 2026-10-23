@@ -1,2 +1,2 @@
-# Heart-Predication
-Heart Predication using  logistic regression, KNN and using numpy, pandas, matplot, sklearn, seaborn 
+# Heart-Prediction
+Heart Prediction using  logistic regression, KNN and using numpy, pandas, matplot, sklearn, seaborn 
